@@ -17,5 +17,5 @@
 <resources>
     <color name="customactivityoncrash_primary">#04457a</color>
     <color name="customactivityoncrash_primary_dark">#062e4e</color>
-    <color name="customactivityoncrash_accent">#05467b</color>
+    <color name="customactivityoncrash_accent">#fff</color>
 </resources>
