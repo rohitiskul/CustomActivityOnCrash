@@ -28,7 +28,7 @@ import android.widget.TextView;
 import cat.ereza.customactivityoncrash.CustomActivityOnCrash;
 import cat.ereza.customactivityoncrash.R;
 
-public final class DefaultErrorActivity extends Activity {
+public final class DefaultErrorActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
